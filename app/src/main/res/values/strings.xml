@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حاجب الريلز</string>
+    <string name="service_desc">يكتشف شاشات الريلز والشورتس في إنستغرام وفيسبوك ويوتيوب ويعيدك للخلف تلقائيًا. لا يجمع أي بيانات، ويمكن إيقافه في أي وقت.</string>
+</resources>
